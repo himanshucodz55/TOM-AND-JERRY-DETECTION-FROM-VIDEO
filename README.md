@@ -1,7 +1,5 @@
 # TOM-AND-JERRY-DETECTION-FROM-VIDEO
-<br>
 ![](/train/frame0.jpg)
-<br>
 ### the face detection of tom and jerry form in video.
 ### the screen time of both TOM and JERRY in video.
 ### using the deep learning model VGG-16
